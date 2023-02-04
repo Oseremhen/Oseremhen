@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oseremhen
+- 👋 Hi, I’m Eugenia
 - 👀 I’m interested in Analytics
 - 🌱 I’m currently learning Data Analytics and Visualization from the University of Toronto bootcamp.
 - 💞️ I’m looking to collaborate on  Analytics projects with Machine Learning
