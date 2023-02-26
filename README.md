@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eugenia
 - 👀 I’m interested in Analytics
 - 🌱 I’m currently learning Data Analytics and Visualization from the University of Toronto bootcamp.
-- 💞️ I’m looking to collaborate on  Analytics projects with Machine Learning
+- 💞️ I’m looking to collaborate on  Analytics projects
 - 📫 How to reach me eugenia.okpamen@gmail.com
 
 <!---
